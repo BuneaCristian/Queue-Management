@@ -1,0 +1,300 @@
+Current time 0
+Tasks to arrive: (1, 6, 2) (2, 2, 3) (3, 24, 3) (4, 10, 3) 
+Server 1: Empty
+Server 2: Empty
+
+Current time 1
+Tasks to arrive: (1, 6, 2) (2, 2, 3) (3, 24, 3) (4, 10, 3) 
+Server 1: Empty
+Server 2: Empty
+
+Current time 2
+Tasks to arrive: (1, 6, 2) (3, 24, 3) (4, 10, 3) 
+Server 1: (2, 2, 2) 
+Server 2: Empty
+
+Current time 3
+Tasks to arrive: (1, 6, 2) (3, 24, 3) (4, 10, 3) 
+Server 1: (2, 2, 1) 
+Server 2: Empty
+
+Current time 4
+Tasks to arrive: (1, 6, 2) (3, 24, 3) (4, 10, 3) 
+Server 1: Empty
+Server 2: Empty
+
+Current time 5
+Tasks to arrive: (1, 6, 2) (3, 24, 3) (4, 10, 3) 
+Server 1: Empty
+Server 2: Empty
+
+Current time 6
+Tasks to arrive: (3, 24, 3) (4, 10, 3) 
+Server 1: Empty
+Server 2: (1, 6, 2) 
+
+Current time 7
+Tasks to arrive: (3, 24, 3) (4, 10, 3) 
+Server 1: Empty
+Server 2: Empty
+
+Current time 8
+Tasks to arrive: (3, 24, 3) (4, 10, 3) 
+Server 1: Empty
+Server 2: Empty
+
+Current time 9
+Tasks to arrive: (3, 24, 3) (4, 10, 3) 
+Server 1: Empty
+Server 2: Empty
+
+Current time 10
+Tasks to arrive: (3, 24, 3) 
+Server 1: (4, 10, 2) 
+Server 2: Empty
+
+Current time 11
+Tasks to arrive: (3, 24, 3) 
+Server 1: (4, 10, 1) 
+Server 2: Empty
+
+Current time 12
+Tasks to arrive: (3, 24, 3) 
+Server 1: Empty
+Server 2: Empty
+
+Current time 13
+Tasks to arrive: (3, 24, 3) 
+Server 1: Empty
+Server 2: Empty
+
+Current time 14
+Tasks to arrive: (3, 24, 3) 
+Server 1: Empty
+Server 2: Empty
+
+Current time 15
+Tasks to arrive: (3, 24, 3) 
+Server 1: Empty
+Server 2: Empty
+
+Current time 16
+Tasks to arrive: (3, 24, 3) 
+Server 1: Empty
+Server 2: Empty
+
+Current time 17
+Tasks to arrive: (3, 24, 3) 
+Server 1: Empty
+Server 2: Empty
+
+Current time 18
+Tasks to arrive: (3, 24, 3) 
+Server 1: Empty
+Server 2: Empty
+
+Current time 19
+Tasks to arrive: (3, 24, 3) 
+Server 1: Empty
+Server 2: Empty
+
+Current time 20
+Tasks to arrive: (3, 24, 3) 
+Server 1: Empty
+Server 2: Empty
+
+Current time 21
+Tasks to arrive: (3, 24, 3) 
+Server 1: Empty
+Server 2: Empty
+
+Current time 22
+Tasks to arrive: (3, 24, 3) 
+Server 1: Empty
+Server 2: Empty
+
+Current time 23
+Tasks to arrive: (3, 24, 3) 
+Server 1: Empty
+Server 2: Empty
+
+Current time 24
+Tasks to arrive: 
+Server 1: Empty
+Server 2: (3, 24, 2) 
+
+Current time 25
+Tasks to arrive: 
+Server 1: Empty
+Server 2: (3, 24, 1) 
+
+Current time 26
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 27
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 28
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 29
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 30
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 31
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 32
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 33
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 34
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 35
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 36
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 37
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 38
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 39
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 40
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 41
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 42
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 43
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 44
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 45
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 46
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 47
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 48
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 49
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 50
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 51
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 52
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 53
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 54
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 55
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 56
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 57
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 58
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
+Current time 59
+Tasks to arrive: 
+Server 1: Empty
+Server 2: Empty
+
